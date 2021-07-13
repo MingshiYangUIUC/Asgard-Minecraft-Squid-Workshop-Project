@@ -33,6 +33,7 @@ Enable it by:
   
 # Usage
   【启动指令】
+  
   变成雷神索尔，获得装备：
   /function app:help/asgard/thor_on
   
@@ -72,6 +73,7 @@ Enable it by:
 
 
 [Starting Commands]
+
 Become a Thor, acquiring equipment:
 /function app:help/asgard/thor_on
 
