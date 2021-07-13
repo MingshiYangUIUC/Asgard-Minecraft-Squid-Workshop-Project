@@ -125,8 +125,6 @@ Throwing the Bottle o' Enchanting: Summon an permanent illusion, which copies ha
 	    │  pack.mcmeta
 	    │  
 	    └─data
-		│  .DS_Store
-		│  
 		├─app
 		│  └─functions
 		│      ├─get
@@ -147,11 +145,7 @@ Throwing the Bottle o' Enchanting: Summon an permanent illusion, which copies ha
 		│                  thor_on.mcfunction
 		│                  
 		├─asgard
-		│  │  .DS_Store
-		│  │  
 		│  └─functions
-		│      │  .DS_Store
-		│      │  
 		│      └─classes
 		│          ├─bifrost
 		│          │      detect.mcfunction
