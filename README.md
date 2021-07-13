@@ -121,75 +121,75 @@ Throwing the Bottle o' Enchanting: Summon an permanent illusion, which copies ha
 
 # Project Tree
 
-Asgard-Datapack-Squid-Workshop-1.16.5
-    │  pack.mcmeta
-    │  
-    └─data
-        │  .DS_Store
-        │  
-        ├─app
-        │  └─functions
-        │      ├─get
-        │      │  └─asgard
-        │      │          daggers.mcfunction
-        │      │          equip_hornedhelmet.mcfunction
-        │      │          equip_thorhelmet.mcfunction
-        │      │          loki_all.mcfunction
-        │      │          mjolnir.mcfunction
-        │      │          scepter.mcfunction
-        │      │          thor_all.mcfunction
-        │      │          
-        │      └─help
-        │          └─asgard
-        │                  loki_off.mcfunction
-        │                  loki_on.mcfunction
-        │                  thor_off.mcfunction
-        │                  thor_on.mcfunction
-        │                  
-        ├─asgard
-        │  │  .DS_Store
-        │  │  
-        │  └─functions
-        │      │  .DS_Store
-        │      │  
-        │      └─classes
-        │          ├─bifrost
-        │          │      detect.mcfunction
-        │          │      main.mcfunction
-        │          │      summon.mcfunction
-        │          │      
-        │          ├─loki
-        │          │      autoshoot.mcfunction
-        │          │      autoshoot_launch.mcfunction
-        │          │      autoshoot_setup.mcfunction
-        │          │      changename.mcfunction
-        │          │      illusion.mcfunction
-        │          │      indepsummon.mcfunction
-        │          │      kill.mcfunction
-        │          │      randomvillager.mcfunction
-        │          │      scepter_main.mcfunction
-        │          │      selfkill.mcfunction
-        │          │      set.mcfunction
-        │          │      summon.mcfunction
-        │          │      turn_animal.mcfunction
-        │          │      turn_particle.mcfunction
-        │          │      turn_vil.mcfunction
-        │          │      
-        │          ├─main
-        │          │      clean.mcfunction
-        │          │      load.mcfunction
-        │          │      tick.mcfunction
-        │          │      
-        │          └─thor
-        │                  hammer_flyingb.mcfunction
-        │                  hammer_lightning.mcfunction
-        │                  hammer_main.mcfunction
-        │                  
-        └─minecraft
-            └─tags
-                └─functions
-                        load.json
-                        tick.json
+	Asgard-Datapack-Squid-Workshop-1.16.5
+	    │  pack.mcmeta
+	    │  
+	    └─data
+		│  .DS_Store
+		│  
+		├─app
+		│  └─functions
+		│      ├─get
+		│      │  └─asgard
+		│      │          daggers.mcfunction
+		│      │          equip_hornedhelmet.mcfunction
+		│      │          equip_thorhelmet.mcfunction
+		│      │          loki_all.mcfunction
+		│      │          mjolnir.mcfunction
+		│      │          scepter.mcfunction
+		│      │          thor_all.mcfunction
+		│      │          
+		│      └─help
+		│          └─asgard
+		│                  loki_off.mcfunction
+		│                  loki_on.mcfunction
+		│                  thor_off.mcfunction
+		│                  thor_on.mcfunction
+		│                  
+		├─asgard
+		│  │  .DS_Store
+		│  │  
+		│  └─functions
+		│      │  .DS_Store
+		│      │  
+		│      └─classes
+		│          ├─bifrost
+		│          │      detect.mcfunction
+		│          │      main.mcfunction
+		│          │      summon.mcfunction
+		│          │      
+		│          ├─loki
+		│          │      autoshoot.mcfunction
+		│          │      autoshoot_launch.mcfunction
+		│          │      autoshoot_setup.mcfunction
+		│          │      changename.mcfunction
+		│          │      illusion.mcfunction
+		│          │      indepsummon.mcfunction
+		│          │      kill.mcfunction
+		│          │      randomvillager.mcfunction
+		│          │      scepter_main.mcfunction
+		│          │      selfkill.mcfunction
+		│          │      set.mcfunction
+		│          │      summon.mcfunction
+		│          │      turn_animal.mcfunction
+		│          │      turn_particle.mcfunction
+		│          │      turn_vil.mcfunction
+		│          │      
+		│          ├─main
+		│          │      clean.mcfunction
+		│          │      load.mcfunction
+		│          │      tick.mcfunction
+		│          │      
+		│          └─thor
+		│                  hammer_flyingb.mcfunction
+		│                  hammer_lightning.mcfunction
+		│                  hammer_main.mcfunction
+		│                  
+		└─minecraft
+		    └─tags
+			└─functions
+				load.json
+				tick.json
 
 # Terms of Use
 Feel free to play around with this set. \
