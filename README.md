@@ -48,7 +48,9 @@ Enable it by:
   
   
   【角色效果】
+  
   【雷神】
+  
   手持头盔右键：穿戴头盔
   
   长距离tp：柱状粒子效果
@@ -58,6 +60,7 @@ Enable it by:
   离开地面时 手持雷神锤右键：召唤火球推进飞行。（创造模式悬空时无效）
 
   【洛基】
+  
   手持头盔右键：穿戴头盔
   
   长距离tp：柱状粒子效果
@@ -88,7 +91,9 @@ Quit being Loki:
 
 
 [Role Effects]
+
 [Thor]
+
 Right-click on handheld helmet: Wear the helmet
 
 Long-distance tp: The column particle effect
@@ -98,6 +103,7 @@ Being on ground, right-clicking with the Mjolnir: Summon lightning to attack sur
 Being off ground, right-clicking with the Mjolnir: Summon fireballs to fly.
 
 [Loki]
+
 Right-click on handheld helmet: Wear the helmet
 
 Long-distance tp: The column particle effect
