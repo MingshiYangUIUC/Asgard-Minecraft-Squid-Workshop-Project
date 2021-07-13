@@ -1,0 +1,1 @@
+execute as @a at @s[nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",tag:{CustomModelData:1}}},scores={fungiClik_bool=1,POA_cooldown=..0}] run function asgard:classes/loki/autoshoot

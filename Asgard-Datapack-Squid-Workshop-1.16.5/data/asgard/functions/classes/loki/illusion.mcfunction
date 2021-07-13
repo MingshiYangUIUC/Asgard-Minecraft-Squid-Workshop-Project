@@ -1,0 +1,2 @@
+execute as @a[tag=loki,limit=1,sort=nearest] at @s[scores={PoA_shift=4..}] run function asgard:classes/loki/set
+execute as @a[tag=loki,limit=1,sort=nearest] at @s[scores={PoA_shift=..-1}] run scoreboard players add @s PoA_shift 1

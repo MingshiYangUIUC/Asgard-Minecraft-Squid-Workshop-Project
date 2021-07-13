@@ -1,0 +1,1 @@
+tellraw @s [{"italic":"true","color":"gray","text":"<Odin the Allfather>:"},{"color":"white","italic":"false","text":" Your current headgear will be replaced. Proceed? "},{"color":"white","italic":"false","text":"<OK.>","underlined":true,"clickEvent":{"action":"run_command","value":"/function app:get/asgard/loki_all"}}]
