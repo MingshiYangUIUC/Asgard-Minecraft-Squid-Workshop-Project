@@ -14,14 +14,14 @@
 
 # Installation
 - Step 1 Download this repository as a zip and unpack.
-- Step 2 Go to minecraft saves directory, usually "C:/Users/youUserName/AppData/Roaming/.minecraft/saves".
+- Step 2 Go to minecraft directory, usually "C:/Users/youUserName/AppData/Roaming/.minecraft".
 - Step 3 Choose the world folder in which you want to install the packs.
-- Step 4 Go to .../world/datapacks folder.
-- Step 5 Move your "Asgard-Datapack-Squid-Workshop-1.16.5" folder(not the root folder) into .../world/datapacks folder.
-- Step 6 Move your "Asgard-Resourcepack-Squid-Workshop-1.16.5" folder(not the root folder) into .../world/resourcepacks folder.
+- Step 4 Go to .../saves/world/datapacks folder.
+- Step 5 Move your "Asgard-Datapack-Squid-Workshop-1.16.5" folder(not the root folder) into .../saves/world/datapacks folder.
+- Step 6 Move your "Asgard-Resourcepack-Squid-Workshop-1.16.5" folder(not the root folder) into .../resourcepacks folder.
 - Step 7 Open Minecraft and open the world.
 - Step 8 Type "/reload" command then press enter.
-- Step 9 Press "F3" + "T".
+- Step 9 Press Esc, click options... and resourcepacks... and move Asgard-Resourcepack-Squid-Workshop-1.16.5 to the upper right.
 - Step 10 Enjoy
 
 PS: If not working, check whether the datapack is enabled by:
