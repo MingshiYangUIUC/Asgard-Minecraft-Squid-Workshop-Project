@@ -22,6 +22,10 @@ execute as @e[tag=proj,scores={POA_cooldown=2..20}] store result entity @s Explo
 scoreboard players remove @a[scores={POA_cooldown=1..}] POA_cooldown 1
 scoreboard players add @e[tag=proj] POA_cooldown 2
 
+#hammer item
+execute as @e[type=item,nbt={Item:{tag:{CustomModelData:2,display:{Name:'[{"text":"Mjolnir","italic":true,"color":"aqua"}]'}}}}] at @s run function asgard:classes/thor/hammer_item
+
+
 
 #throw illusion
 scoreboard players add @e[type=experience_bottle] POA_cooldown 1
@@ -35,3 +39,7 @@ execute as @e[tag=deadvil,type=area_effect_cloud,nbt={Age:15}] at @s run functio
 
 effect give @a[tag=asloki] resistance 1 2 true
 effect give @a[tag=asthor] resistance 1 3 true
+
+# reset bool
+execute as @a[scores={hammerPick_bool=1..}] run scoreboard players set @s hammerPick_bool 0
+

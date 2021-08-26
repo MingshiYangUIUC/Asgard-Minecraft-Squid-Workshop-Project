@@ -8,3 +8,4 @@ scoreboard objectives remove POA_autoshoot
 scoreboard objectives remove POA_cooldown
 scoreboard objectives remove POA_ID
 scoreboard objectives remove POA_var
+scoreboard objectives remove hammerPick_bool

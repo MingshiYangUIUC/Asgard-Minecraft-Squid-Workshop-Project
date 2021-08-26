@@ -14,5 +14,6 @@ scoreboard objectives add POA_var dummy
 execute as @a store result score @s POA_ID run data get entity @s UUID[1]
 scoreboard players set POA_C5 POA_var 5
 scoreboard players set POA_C10 POA_var 10
+scoreboard objectives add hammerPick_bool minecraft.picked_up:minecraft.warped_fungus_on_a_stick
 
 tellraw @a {"text":"[Server]: Asgard-Datapack from Squid-Workshop Loaded.","italic":true,"color":"gray"}
