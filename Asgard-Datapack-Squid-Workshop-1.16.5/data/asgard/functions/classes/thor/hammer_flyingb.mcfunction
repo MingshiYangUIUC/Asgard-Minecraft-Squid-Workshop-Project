@@ -1,1 +1,1 @@
-summon minecraft:fireball ^ ^ ^-2 {Motion:[0.0,-10.0,0.0],power:[0.0,-200.0,0.0],ExplosionPower:-2,Tags:["thor"]}
+summon minecraft:fireball ^ ^ ^-2 {Motion:[0.0,-1.5,0.0],power:[0.0,-100.0,0.0],ExplosionPower:-2,Tags:["thor"]}
