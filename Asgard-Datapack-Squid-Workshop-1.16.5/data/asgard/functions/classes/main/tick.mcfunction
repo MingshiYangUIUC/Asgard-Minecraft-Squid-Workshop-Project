@@ -6,6 +6,7 @@ execute as @a[tag=asthor,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_sti
 execute as @a[tag=asloki,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",tag:{CustomModelData:3}}},scores={fungiClik_bool=1}] run replaceitem entity @s weapon.mainhand air
 execute as @a[tag=asthor,nbt={SelectedItem:{id:"minecraft:warped_fungus_on_a_stick",tag:{CustomModelData:9}}},scores={fungiClik_bool=1}] run replaceitem entity @s weapon.mainhand air
 
+
 execute as @a[tag=asloki,tag=!loki,scores={shift_bool=1},nbt={OnGround:1b}] at @s run function asgard:classes/loki/set
 
 
